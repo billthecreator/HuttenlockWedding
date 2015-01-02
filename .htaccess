@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile /html/projects/m_k_wedding/.htpasswd
+require matt
